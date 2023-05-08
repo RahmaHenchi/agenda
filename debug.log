@@ -1,0 +1,2 @@
+[0316/004120.376:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0316/004120.510:ERROR:exception_snapshot_win.cc(99)] thread ID 9916 not found in process
