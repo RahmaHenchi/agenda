@@ -1,0 +1,5 @@
+export const SET_ALL_EVENTS = 'SET_ALL_EVENTS'
+export const SELECT_EVENT = 'SELECT_EVENT'
+export const REMOVE_EVENT = 'REMOVE_EVENT'
+export const UPDATE_EVENT = 'UPDATE_EVENT'
+export const ADD_EVENT = 'ADD_EVENT'
